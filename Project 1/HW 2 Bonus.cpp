@@ -1,5 +1,5 @@
 /*
-    Assignment: Homework #2: BONUS
+    Assignment: Project #1: BONUS
     Author:     Matthew Bierman
     Course:     CS 3345.502 (Data Structures and Introduction to Algorithmic Analysis)
     Instructor: Professor Kamran Khan
